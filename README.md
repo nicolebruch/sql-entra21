@@ -20,10 +20,6 @@ Aqui você encontrará:
 ├── aula03.sql
 ├── aula04.sql
 ```
-
-bash
-Copiar
-Editar
 Cada aula contém exercícios práticos e explicações dos comandos SQL.  
 
 ## 🚀 Como Usar  
